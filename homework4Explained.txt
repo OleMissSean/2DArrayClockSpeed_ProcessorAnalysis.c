@@ -1,0 +1,14 @@
+Sean Staz
+Csci 223
+11/18/2013
+Homework #5
+
+The specifications of my test machine are as follows:
+
+HP Paviallion dv6 Notebook PC
+x64-based PC
+Ubuntu 12.04 LTS
+Intel(R) Core(TM) i7-2670QM CPU @ 2.20GHz, 2201 Mhz (6M cache)
+6144 MB DDR3 RAM
+
+My machine gave me the same "Elapsed time" for both tests. However, I believe that there is either error in my coding (no one could help me find it), or both test are so fast that I am not getting a proper response. I do believe the first test is faster because It uses row ordering for the outside loop and the column ordering for the inside loop. This is parallel with C programing language structure.
